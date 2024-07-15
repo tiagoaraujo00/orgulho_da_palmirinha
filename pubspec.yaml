@@ -36,6 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
   flutter_svg: ^2.0.10+1
+  font_awesome_flutter: ^10.7.0
 
 dev_dependencies:
   flutter_test:
@@ -63,6 +64,14 @@ flutter:
   assets:
     - assets/icons/logo.svg
     - assets/icons/orgulho-da-palmirinha.svg
+    - assets/icons/oriental_recipe.svg
+    - assets/icons/vegetarian_recipe.svg
+    - assets/icons/fastFood_recipe.svg
+    - assets/icons/dessert_recipe.svg
+    - assets/icons/drinks_recipe.svg
+    - assets/icons/fitness_recipe.svg
+    - assets/icons/meat_recipe.svg
+    - assets/icons/pasta_recipe.svg
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
