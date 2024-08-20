@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
 import 'package:orgulho_da_palmirinha/constants/recipe_categories.dart';
 

@@ -22,7 +22,7 @@ class StayHomeText extends StatelessWidget {
             ),
           ),
           const TextSpan(
-            text: ' !',
+            text: '!',
             style: TextStyle(
               color: Colors.black,
               fontWeight: FontWeight.bold,

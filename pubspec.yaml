@@ -72,6 +72,8 @@ flutter:
     - assets/icons/fitness_recipe.svg
     - assets/icons/meat_recipe.svg
     - assets/icons/pasta_recipe.svg
+    - assets/images/recipe_image_1.jpg
+    - assets/images/recipe_image_2.jpg
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
